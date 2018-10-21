@@ -1,3 +1,3 @@
 # Kurz PHP - lekce 5
 
-> OOP - objekty, třídy
+* OOP - objekty, třídy
