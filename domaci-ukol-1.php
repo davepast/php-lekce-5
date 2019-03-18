@@ -84,7 +84,7 @@ class Jehlan implements TrojrozmernyObrazec {
 $kvadr1 = new Kvadr(2,3,7);
 $krychle1 = new Krychle(5);
 $koule1 = new Koule(6);
-$jehlan1 = new Jehlan(3,6);
+$jehlan1 = new Jehlan(3,4);
 
 vypisDetaily($kvadr1);
 vypisDetaily($koule1);
